@@ -22,7 +22,7 @@ To measure simply the 3D distance from a stack, especially measuring A-B distanc
 
 ## References
 
-- 3DtDist.ijm is currently inder submission in collaboration with SCastagnetti Lab (LBDV -CNRS UMR7009) : https://lbdv.imev-mer.fr/accueil-fr/recherche/equipes/equipe-mitose-et-controle-du-fuseau/
+- 3DtDist.ijm is currently inder submission in collaboration with S.Castagnetti Lab (LBDV -CNRS UMR7009) : https://lbdv.imev-mer.fr/accueil-fr/recherche/equipes/equipe-mitose-et-controle-du-fuseau/
 
 - has been published in ..., ***Paper in submission, TO BE UPDATED***
 
