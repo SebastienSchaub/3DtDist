@@ -22,7 +22,8 @@ To measure simply the 3D distance from a stack, especially measuring A-B distanc
 
 ## References
 
-- 3DtDist.ijm has been published in Journal of Cell Science 
+- 3DtDist.ijm has been published in Journal of Cell Science.
+
 https://journals.biologists.com/jcs/article-abstract/137/11/jcs261733/352392/Microtubule-reorganization-during-mitotic-cell?redirectedFrom=fulltext
 
 - contact : **sebastien.schaub@imev-mer.fr**
